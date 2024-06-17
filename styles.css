@@ -13,7 +13,7 @@ body {
 }
 
 header {
-    background-color: #f8ca66;
+    background-color: #f5ce79;
     color: #fff;
     padding: 20px;
     text-align: center;
@@ -64,7 +64,7 @@ section {
 }
 
 h1, h2, h3 {
-    color: #ffbb27;
+    color: #fdb519;
 }
 
 p {
@@ -73,7 +73,7 @@ p {
 }
 
 footer {
-    background-color: #f8ca66;
+    background-color: #f5ce79;
     color: #fff;
     text-align: center;
     padding: 10px;
@@ -127,6 +127,6 @@ form ul li input[type="radio"] {
 }
 
 .quiz-options input[type="radio"]:checked + label {
-    color: #f8ca66;
+    color: #f5ce79;
     font-weight: bold;
 }
