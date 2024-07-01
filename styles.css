@@ -130,3 +130,6 @@ form ul li input[type="radio"] {
     color: #ffc933;
     font-weight: bold;
 }
+.lado{
+    display: flex;
+}
