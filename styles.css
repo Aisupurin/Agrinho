@@ -134,3 +134,7 @@ form ul li input[type="radio"] {
     display: grid;
     grid-template-columns: 50% 50%;
 }
+
+.abelha{
+    width: 100;
+}
