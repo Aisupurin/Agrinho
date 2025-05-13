@@ -20,7 +20,7 @@ header {
 }
 
 nav {
-    background-color: #b49d7e;
+    background-color: #ffffff;
     text-align: center;
     padding: 10px 0;
 }
@@ -64,7 +64,7 @@ section {
 }
 
 h1, h2, h3 {
-    color: #ffffff;
+    color: #b49d7e;
 }
 
 p {
