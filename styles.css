@@ -63,8 +63,12 @@ section {
     margin-bottom: 30px;
 }
 
-h1, h2, h3 {
+h1, {
     color: #41291b;
+}
+
+h2, h3 {
+    color: #b49d7e;
 }
 
 }
