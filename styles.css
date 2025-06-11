@@ -67,6 +67,10 @@ h1, h2, h3 {
     color: #b49d7e;
 }
 
+h4 {
+    color: #221c0d;
+}
+
 p {
     line-height: 1.8;
     margin-bottom: 15px;
